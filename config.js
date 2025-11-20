@@ -4,13 +4,8 @@ const configuracion = {
     version: "1.0.0",
     fechaCreacion: "2024-11-14",
     miembros: [
-        {
-            nombre: "Alejandro",
-            rol: "Diseñador",
-            github: "alejandrovsc20"
-        }
+        // Cada miembro añadirá su información aquí
     ]
 };
-
 
 console.log("Portafolio cargado - Versión:", configuracion.version);
