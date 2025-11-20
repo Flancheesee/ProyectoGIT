@@ -5,6 +5,7 @@ Portafolio profesional desarrollado colaborativamente usando Git, GitHub y princ
 
 ## 👥 Miembros del Equipo
 - **Esther Fernández Cintado** - Desarrolladora de estilos - [@esfercinn](https://github.com/esfercinn)
+- **Alejandro Castillo González** - Programador - [@aaleexcg](https://github.com/aaleexcg)
 
 ## 🛠️ Tecnologías
 - HTML5
