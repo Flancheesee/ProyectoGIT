@@ -80,6 +80,11 @@ footer {
     color: white;
 }
 
+.miembro-AlexCG {
+    background: linear-gradient(135deg, #f5f5f5 0%, #333 );
+    color: rgb(143, 68, 68);
+}
+
 /* Estilos para proyectos */
 .proyecto {
     border-left: 4px solid #667eea;
