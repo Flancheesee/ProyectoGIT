@@ -4,7 +4,11 @@ const configuracion = {
     version: "1.0.0",
     fechaCreacion: "2024-11-14",
     miembros: [
-        // Cada miembro añadirá su información aquí
+        {
+       nombre: "Alejandro Rodríguez Fernández",
+       rol: "Diseñador de proyectos",
+       github: "alejandrovsc20"
+        }
     ]
 };
 
