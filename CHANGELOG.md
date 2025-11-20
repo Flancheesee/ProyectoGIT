@@ -13,8 +13,8 @@ Todos los cambios notables del proyecto se documentarán aquí.
 ### Añadido
 - Tarjeta de presentación de Esther Fernández Cintado por @esfercinn
 - Proyecto [AAEF] por @[esfercinn]
-
-## [En desarrollo] - [20/11/2025]
-### Añadido
+- Tarjeta de presentación de Alejandro Rodríguez Fernández por @alejandrovsc20
+- Proyecto [AAEF] por @[alejandrovsc20]
 - Tarjeta de presentación de Alejandro Castillo González por @aaleexcg
 - Proyecto [AAEF] por @[aaleexcg]
+
