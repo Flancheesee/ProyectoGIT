@@ -74,6 +74,12 @@ footer {
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
+/* Estilo personalizado de [Tu Nombre] */
+.miembro-EstherFC {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+}
+
 /* Estilos para proyectos */
 .proyecto {
     border-left: 4px solid #667eea;
