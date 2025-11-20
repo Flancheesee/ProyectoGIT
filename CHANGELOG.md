@@ -8,3 +8,8 @@ Todos los cambios notables del proyecto se documentarán aquí.
 - Páginas HTML (index y proyectos)
 - Estilos base CSS
 - Configuración JavaScript
+
+## [En desarrollo] - [20/11/2025]
+### Añadido
+- Tarjeta de presentación de Esther Fernández Cintado por @esfercinn
+- Proyecto [AAEF] por @[esfercinn]

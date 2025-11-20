@@ -4,7 +4,7 @@
 Portafolio profesional desarrollado colaborativamente usando Git, GitHub y principios de Gitflow.
 
 ## 👥 Miembros del Equipo
-<!-- Cada miembro añadirá su información -->
+- **Esther Fernández Cintado** - Desarrolladora de estilos - [@esfercinn](https://github.com/esfercinn)
 
 ## 🛠️ Tecnologías
 - HTML5
