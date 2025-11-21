@@ -1,14 +1,14 @@
+// Configuración del portafolio
 const configuracion = {
     nombreEquipo: "Equipo [nombre]",
     version: "1.0.0",
-    fechaCreacion: "2025-11-20",
+    fechaCreacion: "2024-11-14",
     miembros: [
         {
-            nombre: "Francis",
-            rol: "Trabaje en proyecttos.html",
-            github: "Flancheesee"
+       nombre: "Alejandro Rodríguez Fernández",
+       rol: "Diseñador de proyectos",
+       github: "alejandrovsc20"
         }
-        // Otros miembros añadirán sus datos aquí
     ]
 };
 
