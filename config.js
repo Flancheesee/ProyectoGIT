@@ -7,7 +7,12 @@ const configuracion = {
         {
        nombre: "Alejandro Rodríguez Fernández",
        rol: "Diseñador de proyectos",
-       github: "alejandrovsc20"
+       github: "alejandrovsc20",
+        },
+        {
+       nombre: "Francisco Martin Jeronimo",
+       rol: "Diseñador de proyectos 2",
+       github: "flancheesee"
         }
     ]
 };
