@@ -11,7 +11,7 @@ const configuracion = {
         },
         {
        nombre: "Francisco Martin Jeronimo",
-       rol: "Diseñador de proyectos 2",
+       rol: "Coordinador",
        github: "flancheesee"
         }
     ]

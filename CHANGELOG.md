@@ -23,3 +23,8 @@ Todos los cambios notables del proyecto se documentarán aquí.
 ### Añadido
 Tarjeta de presentación de Alejandro Rodríguez Fernández por @alejandrovsc20
 Proyecto [AAEF] por @[alejandrovsc20]
+
+## [En desarrollo] - [21/11/2025]
+### Añadido
+Tarjeta de presentación de Francisco Jose Martin Jeronimo por @flancheesee
+Proyecto [AAEF] por @[flancheesee]
