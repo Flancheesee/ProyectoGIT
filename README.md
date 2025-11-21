@@ -1,4 +1,4 @@
-# Portafolio Colaborativo - Equipo [nombre]
+# Portafolio Colaborativo - Equipo [AAEF]
 
 ## 📝 Descripción
 Portafolio profesional desarrollado colaborativamente usando Git, GitHub y principios de Gitflow.
